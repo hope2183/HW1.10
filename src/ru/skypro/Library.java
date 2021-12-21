@@ -50,6 +50,6 @@ public class Library {
             sb.append(book);
             sb.append(System.lineSeparator());
         }
-        return super.toString();
+        return sb.toString();
     }
 }

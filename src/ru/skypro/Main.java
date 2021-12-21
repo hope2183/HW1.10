@@ -52,8 +52,10 @@ public class Main {
         Library library = new Library(2);
         library.addBook(theStand);
         library.addBook(warAndPeace);
-        System.out.println(theStand);
-        System.out.println(warAndPeace);
+        // System.out.println(theStand);
+        // System.out.println(warAndPeace);
+        System.out.println(library);
+
 
     }
 
